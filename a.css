@@ -12,3 +12,12 @@ h2 {
 p {
     font-size: 1rem; /* 約16px (基準サイズ) */
 }
+
+/* h3（中見出し）の文字サイズ */
+h2 {
+    font-size: 2rem; /* 約32px */
+}
+
+body {
+  background-color: skyblue;
+}
