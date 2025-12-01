@@ -21,3 +21,10 @@ h2 {
 body {
   background-color: skyblue;
 }
+/* サイト全体のフォント指定 */
+2
+body {
+3
+font-family: "MS Pゴシック" ;
+4
+}
