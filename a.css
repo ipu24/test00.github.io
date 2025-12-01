@@ -1,10 +1,6 @@
 /* h1（大見出し）の文字サイズ */
 h1 {
     font-size: 2.5rem; /* 約40px */
-    /* 見出しを中央に寄せる */
-#rs_sa .c-titleModule-h1 {
-  text-align: center;
-}
 }
 
 
