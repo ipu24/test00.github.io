@@ -8,16 +8,19 @@ h1 {
 /* h2（中見出し）の文字サイズ */
 h2 {
     font-size: 1.5rem; /* 約32px */
+    text-align: center;
 }
 
 /* p（段落）の文字サイズ */
 p {
     font-size: 1rem; /* 約16px (基準サイズ) */
+    text-align: center;
 }
 
 /* h3（中見出し）の文字サイズ */
 h2 {
     font-size: 1.5rem; /* 約32px */
+    text-align: center;
 }
 
 body {
