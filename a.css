@@ -1,7 +1,12 @@
 /* h1（大見出し）の文字サイズ */
 h1 {
     font-size: 2.5rem; /* 約40px */
+    /* 見出しを中央に寄せる */
+#rs_sa .c-titleModule-h1 {
+  text-align: center;
 }
+}
+
 
 /* h2（中見出し）の文字サイズ */
 h2 {
@@ -26,16 +31,5 @@ body {
 font-family: "Hannari" ;
 }
 
-/* 見出しを中央に寄せる */
-#rs_sa .c-titleModule-h1 {
-  text-align: center;
-}
-#rs_sa .c-titleModule-h2 {
-  text-align: center;
-}
-#rs_sa .c-titleModule-h3 {
-  text-align: center;
-}
-#rs_sa .c-titleModule-p {
-  text-align: center;
-}
+
+
