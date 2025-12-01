@@ -18,7 +18,7 @@ p {
 }
 
 /* h3（中見出し）の文字サイズ */
-h2 {
+h3 {
     font-size: 1.5rem; /* 約32px */
     text-align: center;
 }
