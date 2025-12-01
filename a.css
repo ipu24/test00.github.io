@@ -1,6 +1,8 @@
 /* h1（大見出し）の文字サイズ */
 h1 {
     font-size: 2.5rem; /* 約40px */
+    /* h1要素内のテキストを中央揃えにする */
+    text-align: center;
 }
 
 
