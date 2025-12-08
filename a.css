@@ -28,9 +28,23 @@ h3 {
 }
 
 body {
-  background-color: skyblue;
+    margin: 0;
+    /* 画面の高さいっぱいに広げる設定 */
+    height: 100vh;
+    
+    /* 背景画像の指定 */
+    /* ↓ '画像のパス/image_0.png' を実際の画像の場所に書き換えてください ↓ */
+    background-image: url('image_0.png');
+    
+    /* 画像を画面全体を覆うように表示 */
+    background-size: cover;
+    
+    /* 画像を中央に配置 */
+    background-position: center;
+    
+    /* 画像の繰り返しを防止 */
+    background-repeat: no-repeat;
 }
-
 
 
 
